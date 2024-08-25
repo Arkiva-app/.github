@@ -1,12 +1,22 @@
 ## Hi there 👋
 
-<!--
+# Unlock Sales Success with Advanced AI 🚀
 
-**Here are some ideas to get you started:**
+Welcome to the **Arkiva** repository! Powered by cutting-edge AI, our platform boosts performance and drives success.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What We Do
+
+At **Arkiva**, we believe that every sales interaction is an opportunity to learn and improve. Our platform listens to sales calls and instantly provides actionable insights. These insights help sales teams refine their strategies, optimize pitches, and ultimately close more deals.
+
+### Key Features
+
+- WIP
+
+## Join Our Beta Test 🚀
+
+We are currently inviting select teams to join our exclusive Beta program. Participants will have the opportunity to shape the future of sales technology while gaining access to our advanced tools.
+
+---
+
+
+
