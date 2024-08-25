@@ -1,6 +1,6 @@
 # Unlock Sales Success with Advanced AI 🚀
 
-Welcome to the **Arkiva** repository! Our mission is to revolutionize how sales teams operate by turning every sales call into actionable insights and personalized coaching. Powered by cutting-edge AI, our platform boosts performance and drives success.
+Welcome to the **Arkiva** repository! Powered by cutting-edge AI, our platform boosts performance and drives success.
 
 ## What We Do
 
