@@ -6,7 +6,7 @@ Welcome to the **Arkiva** repository! Powered by cutting-edge AI, our platform b
 
 ## What We Do
 
-At **Arkiva**, we believe that every sales interaction is an opportunity to learn and improve. Our platform listens to sales calls and instantly provides actionable insights. These insights help sales teams refine their strategies, optimize pitches, and ultimately close more deals.
+At **Arkiva**, we believe that every sales interaction is an opportunity to learn and improve. 
 
 ### Key Features
 
